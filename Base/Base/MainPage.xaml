@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Base.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Curso Lenguaje C#" FontFamily='Arial'
+           HorizontalOptions="Center"
+           TextColor="Blue"
+           VerticalOptions="CenterAndExpand" 
+           FontSize='Large' x:Name="lbl1"/>
+
+        <Entry Placeholder="Escriba acá" x:Name="txt1" />
+        
+        <DatePicker MinimumDate="01/01/2020"
+                    MaximumDate="12/31/2020"
+                    BackgroundColor="Aqua" x:Name="dtp"/>
+
+        <Slider Minimum="0" Maximum="100" x:Name="ss" />
+        
+        <Button Text="Aceptar" BackgroundColor="Blue" TextColor="Yellow"
+         CornerRadius="10" IsVisible="True" x:Name="btn"/>
+    
+    </StackLayout>
+
+</ContentPage>
