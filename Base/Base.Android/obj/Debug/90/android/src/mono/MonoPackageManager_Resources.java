@@ -5,6 +5,8 @@ public class MonoPackageManager_Resources {
 		"Base.Android.dll",
 		"Base.dll",
 		"FormsViewGroup.dll",
+		"Plugin.SimpleAudioPlayer.Abstractions.dll",
+		"Plugin.SimpleAudioPlayer.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
