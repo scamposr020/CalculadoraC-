@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.iOS\\Base.iOS.csproj": {}
+    "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.iOS\\Base.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.iOS\\Base.iOS.csproj": {
+    "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.iOS\\Base.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.iOS\\Base.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.iOS\\Base.iOS.csproj",
         "projectName": "Base.iOS",
-        "projectPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.iOS\\Base.iOS.csproj",
-        "packagesPath": "C:\\Users\\cr270\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.iOS\\Base.iOS.csproj",
+        "packagesPath": "C:\\Users\\Campo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\cr270\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Campo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\Base.csproj": {
-                "projectPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\Base.csproj"
+              "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\Base.csproj": {
+                "projectPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\Base.csproj"
               }
             }
           }
@@ -65,21 +65,20 @@
         }
       }
     },
-    "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\Base.csproj": {
+    "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\Base.csproj",
+        "projectUniqueName": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\Base.csproj",
         "projectName": "Base",
-        "projectPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\Base.csproj",
-        "packagesPath": "C:\\Users\\cr270\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\obj\\",
+        "projectPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\Base.csproj",
+        "packagesPath": "C:\\Users\\Campo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\cr270\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Campo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -133,7 +132,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

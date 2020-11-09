@@ -1109,24 +1109,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cr270\\.nuget\\packages\\": {},
+    "C:\\Users\\Campo\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.iOS\\Base.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.iOS\\Base.iOS.csproj",
       "projectName": "Base.iOS",
-      "projectPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.iOS\\Base.iOS.csproj",
-      "packagesPath": "C:\\Users\\cr270\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.iOS\\Base.iOS.csproj",
+      "packagesPath": "C:\\Users\\Campo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\cr270\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Campo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1140,8 +1140,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\Base.csproj": {
-              "projectPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\Base.csproj"
+            "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\Base.csproj": {
+              "projectPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\Base.csproj"
             }
           }
         }

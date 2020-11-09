@@ -1989,24 +1989,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cr270\\.nuget\\packages\\": {},
+    "C:\\Users\\Campo\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.Android\\Base.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.Android\\Base.Android.csproj",
       "projectName": "Base.Android",
-      "projectPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.Android\\Base.Android.csproj",
-      "packagesPath": "C:\\Users\\cr270\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base.Android\\obj\\",
+      "projectPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.Android\\Base.Android.csproj",
+      "packagesPath": "C:\\Users\\Campo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\cr270\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Campo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2020,8 +2020,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\Base.csproj": {
-              "projectPath": "C:\\Users\\cr270\\Desktop\\C sharp\\Base\\Base\\Base\\Base.csproj"
+            "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\Base.csproj": {
+              "projectPath": "C:\\Users\\Campo\\Desktop\\calculadora\\CalculadoraC-\\Base\\Base\\Base.csproj"
             }
           }
         }
